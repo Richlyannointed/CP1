@@ -1,0 +1,8 @@
+1.6 
+a) we both used the sample variance fomula to account for the bias introduced by inferring the variance of a population from just a sample. Using Bessel's correction
+
+b) x = 9999 +- 999 with a confidence interval of 80% sampled from a gaussian distribution. Our best estimate is our mean 9999 and our standard uncertainty of this mean is 999 assuming we sampled our observations from a gaussian distribution, hence we can quote an 80% confidence interval as 3sigma
+
+c) Confidence interval demarks the region around our estimate within which we expect that upon repeated experimentation, the observed results will lie, with a probability of 95%
+
+Task 2
